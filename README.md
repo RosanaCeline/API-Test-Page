@@ -4,4 +4,4 @@ The API Test Page is a web interface designed to interact with the Boamente API,
 
 ## Live Demo
 
-Check out the live version here: [API Test Page on GitHub Pages]([https://rosanaceline.github.io/Tribute-Page/](https://rosanaceline.github.io/API-Test-Page/))
+Check out the live version here: [API Test Page on GitHub Pages](https://rosanaceline.github.io/API-Test-Page/)
